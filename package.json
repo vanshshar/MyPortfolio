@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "vite": "^6.0.0"
+  },
+  "name": "vansh-portfolio",
+  "version": "1.0.0",
+  "description": "My personal portfolio",
+  "main": "index.html",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanshshar/MyPortfolio.git"
+  },
+  "keywords": [
+    "Portfolio",
+    "personal-portfolio",
+    "website",
+    "showcase",
+    "skills-case"
+  ],
+  "author": "Vansh Sharma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vanshshar/MyPortfolio/issues"
+  },
+  "homepage": "https://github.com/vanshshar/MyPortfolio#readme"
+}
